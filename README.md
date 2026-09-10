@@ -121,6 +121,7 @@ IP-Location-Finder/
 │
 ├── main.py
 ├── api.py
+├── requirement.txt
 ├── README.md
 └── .gitignore
 ```
