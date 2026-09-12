@@ -49,10 +49,10 @@ Display the results
 ## 🛠️ Requirements
 
 - **Python 3.14**
-- `requests` library
+- Some library
 - Internet connection
 
-Install `requests`:
+Install via `requirements.txt`:
 
 ```bash
 pip install -r requirements.txt
